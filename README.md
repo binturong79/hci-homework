@@ -22,14 +22,10 @@ font-size:16px;font-style:normal;}</br>
 </br>
 第一步：复制字体文件到项目 assets 目录；
 </br>
-第二步：打开 iconfont 目录中的 demo.html，找到图标相对应的 HTML 实体字符码；
-</br>
-第三步：打开 res/values/strings.xml，添加 string 值；
-</br>
+第二步：打开 iconfont 目录中的 demo.html，找到图标相对应的 HTML 实体字符码；</br>
+第三步：打开 res/values/strings.xml，添加 string 值；</br>
 <string name="icons">&#x3605; &#x35ad; &#x35ae; &#x35af;</string></br>
-</br>
-第四步：打开 activity_main.xml，添加 string 值到 TextView：
-</br>
+第四步：打开 activity_main.xml，添加 string 值到 TextView：</br>
 <TextView</br>
     android:id="@+id/like"</br>
     android:layout_width="wrap_content"</br>
