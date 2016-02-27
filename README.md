@@ -4,7 +4,8 @@ homework</br>
 </br>
 pc端应用步骤：</br>
 <1>font-face声明字体</br>
-@font-face {font-family: 'iconfont';</br>
+@font-face {</br>
+    font-family: 'iconfont';</br>
     src: url('iconfont.eot'); /* IE9*/</br>
     src: url('iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */</br>
     url('iconfont.woff') format('woff'), /* chrome、firefox */</br>
