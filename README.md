@@ -3,7 +3,7 @@ homework</br>
 使用说明
 </br>
 pc端应用步骤：</br>
-<1>font-face声明字体
+<1>font-face声明字体</br>
 @font-face {font-family: 'iconfont';
     src: url('iconfont.eot'); /* IE9*/
     src: url('iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
