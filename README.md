@@ -1,7 +1,7 @@
 # hci-homework
 homework</br>
 使用说明
-</br>
+</br></br>
 pc端应用步骤：</br>
 <1>font-face声明字体</br>
 @font-face {</br>
@@ -11,15 +11,13 @@ pc端应用步骤：</br>
     url('iconfont.woff') format('woff'), /* chrome、firefox */</br>
     url('iconfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/</br>
     url('iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */</br>
-}
-</br>
+}</br>
 <2>定义使用iconfont的样式
 .iconfont{font-family:"iconfont";</br>
 font-size:16px;font-style:normal;}</br>
-</br>
 <3>挑选相应图标并获取字体编码，应用于页面
 <i class="iconfont">&#33</i></br>
-</br>
+</br></br>
 在Android中使用iconfont
 </br>
 第一步：复制字体文件到项目 assets 目录；
