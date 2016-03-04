@@ -1,0 +1,53 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot'); /* IE9*/
+  src: url('iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-bianpao:before { content: "\e62f"; }
+.icon-heiyiren:before { content: "\e62e"; }
+.icon-heiwushi:before { content: "\e62c"; }
+.icon-binggan:before { content: "\e62b"; }
+.icon-guangzhouta:before { content: "\e625"; }
+.icon-zhaopian:before { content: "\e624"; }
+.icon-wenduji:before { content: "\e623"; }
+.icon-wan:before { content: "\e62a"; }
+.icon-taiyang:before { content: "\e622"; }
+.icon-naozhong:before { content: "\e621"; }
+.icon-yu:before { content: "\e629"; }
+.icon-shipin:before { content: "\e620"; }
+.icon-wumiannan:before { content: "\e628"; }
+.icon-huojian:before { content: "\e61f"; }
+.icon-haiyinqiao:before { content: "\e627"; }
+.icon-xidedaqiao:before { content: "\e626"; }
+.icon-yinlefu:before { content: "\e61e"; }
+.icon-bianfu3:before { content: "\e61d"; }
+.icon-youxiji:before { content: "\e61b"; }
+.icon-bianfu1:before { content: "\e61a"; }
+.icon-fangdajing:before { content: "\e60e"; }
+.icon-xiayu:before { content: "\e60d"; }
+.icon-bianfu2:before { content: "\e619"; }
+.icon-shezhi2:before { content: "\e60c"; }
+.icon-shezhi:before { content: "\e60b"; }
+.icon-qianbi:before { content: "\e615"; }
+.icon-jiangluosan:before { content: "\e613"; }
+.icon-yueliang1:before { content: "\e60a"; }
+.icon-bingqilin:before { content: "\e609"; }
+.icon-zhaoxiangji:before { content: "\e612"; }
+.icon-feiji:before { content: "\e611"; }
+.icon-huluobu:before { content: "\e608"; }
+.icon-xianrenzhang3:before { content: "\e610"; }
+.icon-tubiao2xianrenzhang2:before { content: "\e605"; }
+.icon-dongche:before { content: "\e60f"; }
+.icon-tubiao1xianrenzhang:before { content: "\e603"; }
